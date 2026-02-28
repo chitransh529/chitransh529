@@ -13,9 +13,10 @@
 ---
 
 ## 🛠️ Skills
-- **Languages:** Java, HTML, CSS, JavaScript  
+- **Languages:** Java, HTML, CSS, JavaScript
+- **Frameworks and libraries:** React.js, Node.js, Express.js  
 - **Tools:** Git, GitHub  
-- **Databases:** MySQL  
+- **Databases:** MongoDB 
 
 ---
 
