@@ -29,10 +29,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitransh529&theme=github_dark)
 
-<img src="https://github-readme-stats.vercel.app/api?username=chitransh529&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh529&layout=compact&theme=tokyonight" />
-
-</p>
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chitransh529&theme=github_dark)
