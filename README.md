@@ -27,8 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Graph
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chitransh529&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chitransh529&theme=github_dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=chitransh529&theme=tokyo-night)
