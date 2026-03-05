@@ -25,3 +25,10 @@
 - 📧 Email: chitransh529@gmail.com
 - 🌐 Portfolio: https://chitransh-portfolio-e363cf.netlify.app/
 
+---
+
+## 📊 GitHub Stats
+
+![Chitransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=chitransh529&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh529&layout=compact&theme=github_dark)
