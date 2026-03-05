@@ -27,9 +27,12 @@
 
 ---
 
-
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chitransh529&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh529&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=chitransh529&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chitransh529&layout=compact&theme=tokyonight" />
+
+</p>
